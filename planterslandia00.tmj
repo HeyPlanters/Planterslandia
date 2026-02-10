@@ -41,7 +41,7 @@
         {
          "draworder":"topdown",
          "id":4,
-         "name":"collusion",
+         "name":"collisions",
          "objects":[
                 {
                  "height":0,
@@ -261,8 +261,18 @@
  "tileheight":16,
  "tilesets":[
         {
+         "columns":12,
          "firstgid":1,
-         "source":":\/automap-tiles.tsx"
+         "image":"planterslandia00tileset.png",
+         "imageheight":141,
+         "imagewidth":201,
+         "margin":0,
+         "name":"planterslandia00tileset",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":16,
+         "tilewidth":16,
+         "transparentcolor":"#ffffff"
         }],
  "tilewidth":16,
  "type":"map",
