@@ -1,5 +1,5 @@
 { "compressionlevel":-1,
- "height":62,
+ "height":64,
  "infinite":false,
  "layers":[
         {
@@ -8,8 +8,8 @@
          "imageheight":1024,
          "imagewidth":1536,
          "name":"fondo",
-         "offsetx":-25.3333,
-         "offsety":-17.3333,
+         "offsetx":-9.3333,
+         "offsety":14.6667,
          "opacity":1,
          "type":"imagelayer",
          "visible":true,
@@ -29,8 +29,8 @@
                  "type":"",
                  "visible":true,
                  "width":57.5,
-                 "x":744.5,
-                 "y":466.5
+                 "x":760.5,
+                 "y":498.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -244,8 +244,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":793,
-                 "y":637.5
+                 "x":809,
+                 "y":669.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -277,5 +277,5 @@
  "tilewidth":16,
  "type":"map",
  "version":"1.10",
- "width":95
+ "width":96
 }
