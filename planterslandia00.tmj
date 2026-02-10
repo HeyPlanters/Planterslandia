@@ -18,28 +18,6 @@
         }, 
         {
          "draworder":"topdown",
-         "id":3,
-         "name":"start",
-         "objects":[
-                {
-                 "height":48,
-                 "id":4,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":57.5,
-                 "x":760.5,
-                 "y":498.5
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
          "id":4,
          "name":"collisions",
          "objects":[
@@ -252,6 +230,28 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":3,
+         "name":"start",
+         "objects":[
+                {
+                 "height":48,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":57.5,
+                 "x":760.5,
+                 "y":498.5
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
  "nextlayerid":5,
  "nextobjectid":6,
@@ -278,5 +278,4 @@
  "type":"map",
  "version":"1.10",
  "width":96
-
 }
