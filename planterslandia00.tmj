@@ -92,7 +92,7 @@
         {
          "draworder":"topdown",
          "id":7,
-         "name":"collisions",
+         "name":"collisionsmala",
          "objects":[
                 {
                  "height":124,
@@ -834,12 +834,34 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
+         "visible":false,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":8,
+         "name":"collisions",
+         "objects":[
+                {
+                 "height":261.333333333333,
+                 "id":76,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":237.333333333333,
+                 "x":909.333333333333,
+                 "y":328
+                }],
+         "opacity":1,
+         "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":8,
- "nextobjectid":75,
+ "nextlayerid":9,
+ "nextobjectid":77,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
